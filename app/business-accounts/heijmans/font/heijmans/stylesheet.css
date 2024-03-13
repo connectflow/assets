@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Heijmans Normal';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff') format('woff');
+    font-family: 'Heijmans';
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -10,8 +10,8 @@
 
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -19,8 +19,8 @@
 
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff') format('woff');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -37,8 +37,8 @@
 
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Light.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Light.woff') format('woff');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -46,8 +46,8 @@
 
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -55,32 +55,32 @@
 
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff') format('woff');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Heijmans';
-    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff2') format('woff2'),
-        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/heijmansHeijmans-Normal.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/connectflow/assets/main/app/business-accounts/heijmans/font/Heijmans-Normal.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
