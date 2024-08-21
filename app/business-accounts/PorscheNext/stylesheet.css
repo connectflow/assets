@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Qvsmubptjkjfcgslyusdyvwsscw';
+    src: url('Qvsmubptjkjfcgslyusdyvwsscw.woff2') format('woff2'),
+        url('Qvsmubptjkjfcgslyusdyvwsscw.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Glcgraaubwdllusysfexqwhdppu';
+    src: url('Glcgraaubwdllusysfexqwhdppu.woff2') format('woff2'),
+        url('Glcgraaubwdllusysfexqwhdppu.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wpfutaplpiiljhwcdxnjtwzlwqs';
+    src: url('Wpfutaplpiiljhwcdxnjtwzlwqs.woff2') format('woff2'),
+        url('Wpfutaplpiiljhwcdxnjtwzlwqs.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PorscheNext';
+    src: url('PorscheNext-SemiBold.woff2') format('woff2'),
+        url('PorscheNext-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
