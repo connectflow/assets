@@ -16,6 +16,17 @@
     font-display: swap;
 }
 
+
+/* CUSTOM CSS */
+
 article {
+    font-weight: 400 !important;
+}
+
+.subtitle {
+    font-weight: 400 !important;
+}
+
+.title{
     font-weight: 400 !important;
 }
