@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Heineken Serif 18';
+    src: url('HeinekenSerif18-Bold.woff2') format('woff2'),
+        url('HeinekenSerif18-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Heineken Serif';
+    src: url('HeinekenSerif.woff2') format('woff2'),
+        url('HeinekenSerif.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
