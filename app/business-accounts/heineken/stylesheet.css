@@ -16,3 +16,6 @@
     font-display: swap;
 }
 
+article {
+    font-weight: 400 !important;
+}
