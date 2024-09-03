@@ -14,11 +14,11 @@
 }
 
 .item {
-    padding: 16px !important;
+    padding: 0px !important;
 }
 
 article {
-    padding: 0px !important;
+    padding: 16px !important;
 }
 
 .page-action-button{
