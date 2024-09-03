@@ -13,13 +13,10 @@
     font-size: 20px !important;
 }
 
-.item {
-    padding: 0px !important;
-}
-
-article {
+.item article {
     padding: 16px !important;
 }
+
 
 .page-action-button{
     font-size: 16px !important;
