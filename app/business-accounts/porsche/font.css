@@ -1,0 +1,76 @@
+/* Regular */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Regular Italic */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-RegularItalic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* SemiBold Italic */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-SemiBoldItalic.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Thin */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Thin Italic */
+@font-face {
+    font-family: 'PorscheNextWLa';
+    src: url('./PorscheNextWLa-ThinItalic.woff2') format('woff2');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Example usage classes */
+.porsche-text {
+    font-family: 'PorscheNextWLa', sans-serif;
+}
