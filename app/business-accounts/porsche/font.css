@@ -74,3 +74,9 @@
 .porsche-text {
     font-family: 'PorscheNextWLa', sans-serif;
 }
+
+/* custom css */
+
+.user-info__text{
+    margin-bottom: -10px !important; 
+}
