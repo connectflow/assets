@@ -77,6 +77,6 @@
 
 /* custom css */
 
-.user-info__text{
+.user-info__text h1 {
     margin-bottom: -10px !important; 
 }
