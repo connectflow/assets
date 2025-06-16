@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" fill="none" version="1.2" baseProfile="tiny-ps">
+  <title>ConnectFlow Logo</title>
+  <desc>Logo for BIMI</desc>
+  <rect width="96" height="96" fill="#E6E6E6"/>
+  <circle cx="37.6746" cy="48.0428" r="14.6185" stroke="#222222" stroke-width="10.2724"/>
+  <path d="M48.0002 31.1802C53.6566 34.6551 57.4289 40.8987 57.429 48.0239C57.429 55.1494 53.656 61.3928 47.9993 64.8677C42.3431 61.3927 38.5706 55.149 38.5706 48.0239C38.5707 40.8986 42.3436 34.655 48.0002 31.1802Z" fill="#0040FF"/>
+  <circle cx="58.3255" cy="48.0428" r="19.7547" fill="#0040FF" fill-opacity="0.8"/>
+</svg>
